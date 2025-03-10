@@ -1,0 +1,8 @@
+hello my name is fardin ah
+git folder to git folder ----staging area(git add)---(git status),change holo kina
+when a tini change is abilable in the git folder than you go to git staging arrea.
+hi this is fardin.
+hello how are you.
+hi 
+hello .
+how are you.
